@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/PYTHON-black)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-purple)
 
+<h3>GitHub Stats</h3>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raima2006&showicons=true)
 
 
